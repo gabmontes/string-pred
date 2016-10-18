@@ -1,6 +1,6 @@
 {
   "name": "string-pred",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript implementation of the opposite of Ruby's succ/next string functions",
   "keywords": [
     "string",
