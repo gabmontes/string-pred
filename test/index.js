@@ -1,4 +1,4 @@
-import { expect } from 'chai'
+const { expect } = require('chai')
 
 require('../lib')
 
